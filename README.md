@@ -1,2 +1,3 @@
 # OIBSIP
-#OIBSIP Python Internship - This Respository contains python tasks and projects completed during my internship at OASIS INFOBYTE
+#OIBSIP Python Internship - This Respository contains the projects completed as part of the Oasis Infobyte Internship Program
+AUTHOR:M.DEEPA
